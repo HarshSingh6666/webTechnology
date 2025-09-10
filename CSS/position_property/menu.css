@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{  
+    position: sticky;
+    top: 0px;
+    height: 30px;
+    width: 100%;
+    background-color: coral;
+    justify-content: center;
+}
+.menu ,ul, li{
+    padding: 3px;
+    display: flex;
+}

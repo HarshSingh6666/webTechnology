@@ -1,0 +1,11 @@
+div{
+    display: none;
+    height: 30px;
+    background-color: thistle;
+    width: 50%;
+}
+
+p:hover + div{
+    color:red;
+    display: block;
+}
